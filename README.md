@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello
+
+![Uploading NotASigmaSorryYouAreNotASigmaGIF (2).gif…]()
+
 
 <!--
 **ny-julian-g/ny-julian-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
