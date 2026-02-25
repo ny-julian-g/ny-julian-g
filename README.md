@@ -1,6 +1,5 @@
 ## Hello
 
-![Uploading NotASigmaSorryYouAreNotASigmaGIF (2).gif…]()
 
 
 <!--
